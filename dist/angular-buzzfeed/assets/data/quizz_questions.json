@@ -1,0 +1,52 @@
+{
+  "title": "Você seria time Capitão ou Time Homem de Ferro?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Qual super herói você escolheria?",
+      "options": [
+        { "id": 1, "name": "Gavião Arqueiro", "alias": "A" },
+        { "id": 2, "name": "Viuva-Negra", "alias": "B" },
+        { "id": 3, "name": "Homem-Formiga", "alias": "A" },
+        { "id": 4, "name": "Pantera Negra", "alias": "B" }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Quem você apoiaria?",
+      "options": [
+        { "id": 1, "name": "Bucky Barnes", "alias": "A" },
+        { "id": 2, "name": "Visão", "alias": "B" }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Apoiaria o tratado de sokovia ?",
+      "options": [
+        { "id": 1, "name": "Sim", "alias": "B" },
+        { "id": 2, "name": "Não", "alias": "A" },
+        { "id": 2, "name": "Não sei responder", "alias": "A" }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Os Vingadores devem se submeter às decisões do Estado?",
+      "options": [
+        { "id": 1, "name": "Não, Devem ser independentes", "alias": "A" },
+        { "id": 2, "name": "Sim, os vingadores precisam ser controlados", "alias": "B" }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Qual característica você escolheria ?",
+      "options": [
+        { "id": 1, "name": "Estrategista Nato", "alias": "A" },
+        { "id": 2, "name": "Inteligência Aguçada", "alias": "B" }
+      ]
+    }
+  ],
+  "results": {
+    "A": "Você muito provavelmente seria do time Capitão!",
+    "B": "Você muito provavelmente seria do time Homem de Ferro!"
+  }
+}
