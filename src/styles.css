@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Protest+Strike&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+
+  font-family: "Protest Strike", sans-serif;
+  font-weight: normal;
+  color: white;
+}
+
+body {
+  background-image: url(assets/images/team.jpg);
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+}
