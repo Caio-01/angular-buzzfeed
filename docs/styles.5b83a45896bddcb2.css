@@ -1,0 +1,15 @@
+@import "https://fonts.googleapis.com/css2?family=Protest+Strike&display=swap";
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Protest Strike, sans-serif;
+  font-weight: 400;
+  color: #fff;
+}
+body {
+  background-image: url(team.92b04bff1945d101.jpg);
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+}
