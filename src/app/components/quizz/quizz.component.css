@@ -94,6 +94,7 @@
 .results__quizz > p {
   font-size: 1.5em;
   text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.616);
+  text-decoration: underline;
 }
 
 /* Media Queries*/
@@ -107,7 +108,12 @@
     text-align: center;
   }
 
+  .results__quizz > h1{
+    font-size: 1.7em;
+  }
+
   .results__quizz > p {
     text-align: center;
+    font-size: 1.3em;
   }
 }
